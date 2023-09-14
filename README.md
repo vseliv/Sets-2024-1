@@ -11,7 +11,7 @@
 
   
 
-[Актуальное задание для самостоятельной работы](https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2FSetTheory2023%2F%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F%2FTask2.pdf&name=Task2.pdf&uid=1130000047699803&nosw=1)
+[Актуальное задание для самостоятельной работы](https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2FTask3.pdf&name=Task3.pdf&uid=246453&nosw=1)
 
 
 
