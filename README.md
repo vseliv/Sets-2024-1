@@ -11,7 +11,7 @@
 
   
 
-[Актуальное задание для самостоятельной работы](https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2FTask6.pdf&name=Task6.pdf&uid=246453&nosw=1)
+[Актуальное задание для самостоятельной работы](https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2FTask7.pdf&name=Task7.pdf&uid=246453&nosw=1)
 
 
 
