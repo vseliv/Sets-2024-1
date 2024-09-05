@@ -15,7 +15,7 @@
 
 
 
- [Актуальное задание для самостоятельной работы](https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2FSets-2024%2FTask1.pdf&name=Task1.pdf&uid=1130000047699803&nosw=1) 
+ [Актуальное задание для самостоятельной работы](https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2FSets-2024%2FTask2.pdf&name=Task2.pdf&uid=1130000047699803&nosw=1) 
 
 
 [Таблица с результатами](https://docs.google.com/spreadsheets/d/11PnUCI7sD1wD1jTbNjdllY5n85fAyNVDdoEhmNYuVRA/edit?gid=0#gid=0)
